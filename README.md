@@ -17,7 +17,7 @@ Hello! I'm Prajwal, an AI engineer passionate about building intelligent systems
 ## 🧠 Projects
 
 ### 🔹 [MCP Email Assistant](https://github.com/PRAJ1507/MCP-Email_Assistant)
-AI-powered email agent using Model Context Protocol (MCP) + LangGraph.
+- AI-powered email agent using Model Context Protocol (MCP) + LangGraph.
 - Automates email reading, response generation, and multi-account scheduling.
 - Built using async Python, LangChain, IMAP/SMTP, and OAuth.
 
